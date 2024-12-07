@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CharacterlevelsApplication {
+public class PlayerServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CharacterlevelsApplication.class, args);
+		SpringApplication.run(PlayerServiceApplication.class, args);
 	}
 
 }
