@@ -1,4 +1,4 @@
-package com.practice.characterlevels.exceptions;
+package com.practice.player.exceptions;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 

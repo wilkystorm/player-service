@@ -1,6 +1,6 @@
-package com.practice.characterlevels;
+package com.practice.player;
 
-import com.practice.characterlevels.exceptions.*;
+import com.practice.player.exceptions.*;
 import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.dao.EmptyResultDataAccessException;
 import org.springframework.http.HttpHeaders;

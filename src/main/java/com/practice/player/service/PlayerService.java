@@ -1,9 +1,8 @@
-package com.practice.characterlevels.service;
+package com.practice.player.service;
 
-import com.practice.characterlevels.entitiy.Player;
+import com.practice.player.entitiy.Player;
 
 import java.util.List;
-import java.util.Set;
 
 public interface PlayerService {
 

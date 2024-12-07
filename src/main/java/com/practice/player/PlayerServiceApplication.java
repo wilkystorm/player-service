@@ -1,4 +1,4 @@
-package com.practice.characterlevels;
+package com.practice.player;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

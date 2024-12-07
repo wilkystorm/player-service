@@ -1,14 +1,13 @@
-package com.practice.characterlevels.controller;
+package com.practice.player.controller;
 
-import com.practice.characterlevels.entitiy.Player;
-import com.practice.characterlevels.service.PlayerService;
+import com.practice.player.entitiy.Player;
+import com.practice.player.service.PlayerService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-import java.util.Set;
 
 @AllArgsConstructor
 @RestController

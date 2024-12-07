@@ -1,13 +1,8 @@
-package com.practice.characterlevels.entitiy;
-
-import com.fasterxml.jackson.annotation.JsonIgnore;
+package com.practice.player.entitiy;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;
 import lombok.*;
-
-import java.util.List;
-import java.util.Set;
 
 @Getter
 @Setter

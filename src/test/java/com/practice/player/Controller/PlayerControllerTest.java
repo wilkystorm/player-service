@@ -1,7 +1,7 @@
-package com.practice.characterlevels.Controller;
+package com.practice.player.Controller;
 
 
-import com.practice.characterlevels.controller.PlayerController;
+import com.practice.player.controller.PlayerController;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;

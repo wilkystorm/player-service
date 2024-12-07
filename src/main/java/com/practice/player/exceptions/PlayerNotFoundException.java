@@ -1,4 +1,4 @@
-package com.practice.characterlevels.exceptions;
+package com.practice.player.exceptions;
 
 public class PlayerNotFoundException extends RuntimeException {
 

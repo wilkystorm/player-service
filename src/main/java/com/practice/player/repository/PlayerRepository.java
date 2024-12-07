@@ -1,6 +1,6 @@
-package com.practice.characterlevels.repository;
+package com.practice.player.repository;
 
-import com.practice.characterlevels.entitiy.Player;
+import com.practice.player.entitiy.Player;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

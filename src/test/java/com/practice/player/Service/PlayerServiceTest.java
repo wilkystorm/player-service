@@ -1,9 +1,9 @@
-package com.practice.characterlevels.Service;
+package com.practice.player.Service;
 
 
-import com.practice.characterlevels.entitiy.Player;
-import com.practice.characterlevels.repository.PlayerRepository;
-import com.practice.characterlevels.service.PlayerService;
+import com.practice.player.entitiy.Player;
+import com.practice.player.repository.PlayerRepository;
+import com.practice.player.service.PlayerService;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;

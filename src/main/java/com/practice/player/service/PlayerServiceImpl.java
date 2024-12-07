@@ -1,14 +1,13 @@
-package com.practice.characterlevels.service;
+package com.practice.player.service;
 
-import com.practice.characterlevels.entitiy.Player;
-import com.practice.characterlevels.exceptions.PlayerNotFoundException;
-import com.practice.characterlevels.repository.PlayerRepository;
+import com.practice.player.entitiy.Player;
+import com.practice.player.exceptions.PlayerNotFoundException;
+import com.practice.player.repository.PlayerRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
 import java.util.Optional;
-import java.util.Set;
 
 @AllArgsConstructor
 @Service
